@@ -1,0 +1,4 @@
+*.pyc
+*.idea
+x86_64
+.DS_Store

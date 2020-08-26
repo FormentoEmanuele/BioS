@@ -25,7 +25,7 @@ This repository contains the code of the neural simulations performed in the man
     
 * Running a simulation
 
-    The different simulations described in the associated paper can be executed by running the python3 *run_** scripts. Refer to the comments inside each script to see the required arguments that need to be passed at launch time. For example to simulate the effect of BioS (as in Figure 2 of the manuscript) issue the following bash command from the :
+    The different simulations described in the associated paper can be executed by running the python3 *run_** scripts. Refer to the comments inside each script to see the required arguments that need to be passed at launch time. For example to simulate the effect of BioS (as in Figure 2 of the manuscript) issue the following bash command:
 
 
 ```
